@@ -1,1 +1,3 @@
-def render(content): return {'layout':'main','content':content}
+def render(content): 
+  return {'layout':'main','content':content, 'services':'services'}
+  
